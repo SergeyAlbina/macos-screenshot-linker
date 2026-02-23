@@ -5,6 +5,7 @@
   <p>
     <a href="https://github.com/SergeyAlbina/macos-screenshot-linker/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/SergeyAlbina/macos-screenshot-linker"></a>
     <a href="https://github.com/SergeyAlbina/macos-screenshot-linker/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/SergeyAlbina/macos-screenshot-linker"></a>
+    <a href="https://github.com/SergeyAlbina/macos-screenshot-linker/actions/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/SergeyAlbina/macos-screenshot-linker/ci.yml?branch=main"></a>
     <a href="https://github.com/SergeyAlbina/macos-screenshot-linker/commits/main"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/SergeyAlbina/macos-screenshot-linker"></a>
   </p>
 </div>
@@ -78,6 +79,10 @@ launchd/
 ## Roadmap
 
 See [`ROADMAP.md`](ROADMAP.md).
+
+## Changelog
+
+See [`CHANGELOG.md`](CHANGELOG.md).
 
 ## Troubleshooting
 
