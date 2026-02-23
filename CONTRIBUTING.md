@@ -1,4 +1,5 @@
 # Contributing
+Language: [English](CONTRIBUTING.md) | [Русский](CONTRIBUTING.ru.md)
 
 ## Development
 

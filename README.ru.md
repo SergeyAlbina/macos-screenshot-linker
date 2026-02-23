@@ -79,7 +79,7 @@ launchd/
 
 ## Дорожная карта
 
-См. [`ROADMAP.md`](ROADMAP.md).
+См. [`ROADMAP.ru.md`](ROADMAP.ru.md).
 
 ## История изменений
 
@@ -108,7 +108,7 @@ defaults read com.apple.screencapture location
 
 ## Вклад
 
-PR приветствуются. Подробности в [`CONTRIBUTING.md`](CONTRIBUTING.md).
+PR приветствуются. Подробности в [`CONTRIBUTING.ru.md`](CONTRIBUTING.ru.md).
 
 ## Лицензия
 
