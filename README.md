@@ -1,6 +1,7 @@
 <div align="center">
   <h1>macOS Screenshot Linker</h1>
   <p>Automatically copy a <code>file://</code> link to the latest screenshot on macOS.</p>
+  <p><strong>Language:</strong> <a href="README.md">English</a> | <a href="README.ru.md">Русский</a></p>
 
   <p>
     <a href="https://github.com/SergeyAlbina/macos-screenshot-linker/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/SergeyAlbina/macos-screenshot-linker"></a>
